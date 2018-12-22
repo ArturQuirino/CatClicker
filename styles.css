@@ -1,0 +1,7 @@
+#container-cats{
+    display: flex;
+}
+#container-cats__container-cat{
+    display: flex;
+    flex-direction: column;
+}
